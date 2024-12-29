@@ -6,6 +6,7 @@ Tempat menyimpan file terkait tugas besar mata kuliah Recommender System
 # Source dataset : https://www.kaggle.com/datasets/martj42/international-football-results-from-1872-to-2017
 
 Kelompok 9 
+
 Bayu Seno Nugroho - 1301213270
 
 Abidzar Ahmad Haikal - 1301213288
