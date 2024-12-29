@@ -4,6 +4,8 @@
 # Satya Rayyis Baruna - 1301213316
 # Muhammad Rayhan Saniputra - 1301213262
 
+# Link Aplikasi Streamlit : https://voetbalrecsys-kelompok09.streamlit.app/
+
 import streamlit as st
 import pandas as pd
 import plotly.express as px
