@@ -3,4 +3,4 @@ streamlit
 pandas
 plotly
 datetime
-sklearn
+scikit-learn
