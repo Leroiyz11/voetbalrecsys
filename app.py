@@ -30,7 +30,7 @@ def preprocess_data():
 # Memuat dataset yang berada di folder seperti result.csv, shootouts.cs, dan goalscorers.csv sebagai dataframe dimana nantinya akan diolah lebih lanjut
 results = pd.read_csv("results.csv")
 shootouts = pd.read_csv("shootouts.csv")
-goal
+goalscorers = pd.read_csv("goalscorers.csv")
 
 
 # Fungsi untuk mengekstrak berbagai fitur yang menggambarkan performa tim sepak bola berdasarkan hasil pertandingan yang ada di dalam results_df (DataFrame yang berisi data hasil pertandingan).
