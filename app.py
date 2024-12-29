@@ -5,6 +5,7 @@
 # Muhammad Rayhan Saniputra - 1301213262
 
 # Link Aplikasi Streamlit : https://voetbalrecsys-kelompok09.streamlit.app/
+# Source dataset : https://www.kaggle.com/datasets/martj42/international-football-results-from-1872-to-2017
 
 import streamlit as st
 import pandas as pd
