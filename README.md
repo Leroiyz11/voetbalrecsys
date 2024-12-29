@@ -3,8 +3,11 @@ Tempat menyimpan file terkait tugas besar mata kuliah Recommender System
 
 Kelompok 9 
 Bayu Seno Nugroho - 1301213270
+
 Abidzar Ahmad Haikal - 1301213288
+
 Satya Rayyis Baruna - 1301213316
+
 Muhammad Rayhan Saniputra - 1301213262
 
 Deskripsi
